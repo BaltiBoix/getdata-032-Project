@@ -43,4 +43,7 @@ mean(): Mean value
 std(): Standard deviation
 
 Only the mean and the std of the variables are included in xtidy.txt. The original dataset includes more estimates.
+
+Raw accelerometer data is measured in standard gravity units 'g'. 
+The data in the files used has been previously preprocessed, normalized and bounded within [-1,1].
 ...
