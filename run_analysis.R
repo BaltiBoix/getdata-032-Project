@@ -46,4 +46,8 @@ run_analysis<-function(){
       ##
       write.table(xmean,file="xmean.txt",row.names = FALSE)
       
+      ## Output data.frame x
+      ##
+      x
+      
 }
