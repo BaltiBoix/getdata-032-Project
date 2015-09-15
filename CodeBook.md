@@ -6,6 +6,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 # Variable Description from features_info.txt file:
 
+...
 Feature Selection 
 =================
 
@@ -42,3 +43,4 @@ mean(): Mean value
 std(): Standard deviation
 
 Only the mean and the std of the variables are included in xtidy.txt. The original dataset includes more estimates.
+...
